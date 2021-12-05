@@ -12,7 +12,7 @@ Tamany N de la matriu quadrada. NxN nombres corresponents a la matriu.
 
 Constraints
 
-No n'hi ha.
+No n'hi ha.aa
 
 Output Format
 
